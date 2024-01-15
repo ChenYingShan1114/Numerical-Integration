@@ -1,7 +1,8 @@
 
 # Numerical Integration
 ## Reference
-A. L. Garcia, "Numerical Methods for Physics": Chapter 10 Special Functions and Quadrature
+A. L. Garcia, "Numerical Methods for Physics": \ 
+Chapter 10 Special Functions and Quadrature
 ## Exercisies
 ### 10-1.Bessel
 The second solution to Bessel’s equation is $Y_m(x)$, the Bessel function of the second kind. Write a function to compute $Y_m(x)$ using upward recursion
